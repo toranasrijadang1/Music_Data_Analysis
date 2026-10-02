@@ -19,7 +19,7 @@ Source: Kaggle
 • Contains approximately 4,000 listener records.
 • Contains approximately 15 attributes.
 
-# Software Requirements
+# Requirements
 • Windows
 • Python
 • Jupyter Notebook / Google Colab• Pandas
