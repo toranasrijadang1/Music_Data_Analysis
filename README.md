@@ -9,8 +9,8 @@ The project provides practical experience in data analysis and visualization.
 # BATCH - 13
 | Roll Number | Name             |
 | ----------- | -----------------|
-| 25B11CS210  | D.T.SRIJA        |
 | 25B11CS010  | A.CHARWITHA      |
+| 25B11CS210  | D.T.SRIJA        |
 | 25B11CS311  | G.KEERTHANA      |
 | 25B11CS236  | DIPTRISHA DAS    |
 
